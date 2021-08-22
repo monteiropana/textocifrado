@@ -32,10 +32,3 @@ public class Criptografia {
 		}
 	}
 }
-
-
-//4 = a
-//3 = e
-//1 = i
-//0 = o
-//7 = u
